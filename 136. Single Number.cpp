@@ -9,6 +9,6 @@ public:
     }
 };
 
-Learn about vectors How they works in cpp what is there role in cpp
-vector is an array which is resizeable 
-vector <int> {{ Vector name }}
+//Learn about vectors How they works in cpp what is there role in cpp
+//vector is an array which is resizeable 
+//vector <int> {{ Vector name }}
