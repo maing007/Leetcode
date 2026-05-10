@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+       int ans=0;
+       for (int val : nums){
+         ans ^= val;
+       }
+       return ans;
+    }
+};
+
+Learn about vectors How they works in cpp what is there role in cpp
+vector is an array which is resizeable 
+vector <int> {{ Vector name }}
